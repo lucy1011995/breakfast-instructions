@@ -56,6 +56,7 @@ Source: <https://www.noracooks.com/vegan-banana-pancakes/>
 
 ![Mashed banana Images, Stock Photos &amp; Vectors \|
 Shutterstock](images/media/image13.jpeg)
+
 Figure 13: mash bananas in a bowl
 
 ![How to make pancakes - #16 - Whisking the ingredients --- Appetites® -

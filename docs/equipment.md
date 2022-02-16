@@ -19,6 +19,7 @@ need to use for the following recipes.
 
 ![32 Electric Oven Parts! ideas \| electric range, electric oven,
 electricity](images/media/image1.jpeg)
+
 Figure 1: Stove top
 
 ## Oven

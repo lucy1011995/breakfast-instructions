@@ -60,13 +60,11 @@ At the end you should have a stack of crepes to enjoy with different
 fillings!
 
 ![How to Make Basic Crepes Perfect Every Time - Scrambled
-Chefs](images/media/image16.jpeg){width="2.638461286089239in"
-height="3.959012467191601in"}
+Chefs](images/media/image16.jpeg)
 
 Figure 16: pour crepe batter in center of pan
 
 ![Basic Homemade Crepes (How to make crepes) --- The 350 Degree
-Oven](images/media/image17.jpeg){width="3.553846237970254in"
-height="2.356838363954506in"}
+Oven](images/media/image17.jpeg)
 
 Figure 17: swirl batter
