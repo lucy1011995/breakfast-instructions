@@ -68,3 +68,5 @@ Figure 14: whisk pancake batter
 Breakfast](images/media/image15.jpeg)
 
 Figure 15: bubbling pancake (left) and cooked pancake (right)
+
+{% include footer.md %}

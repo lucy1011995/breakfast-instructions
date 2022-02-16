@@ -54,3 +54,5 @@ Figure 8: place cut bananas in bag and freeze
 stock](images/media/image9.jpeg)
 
 Figure 9: blended smoothie
+
+{% include footer.md %}

@@ -86,3 +86,5 @@ Figure 11: cook bacon until crispy
 Gavin](images/media/image12.jpeg)
 
 Figure 12: sauté spinach
+
+{% include footer.md %}

@@ -127,3 +127,5 @@ Figure 6: dry ingredient measuring cups
 Illustrated](images/media/image7.jpeg)
 
 Figure 7: wet ingredient measuring cup
+
+{% include footer.md %}

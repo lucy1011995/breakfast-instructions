@@ -68,3 +68,5 @@ Figure 16: pour crepe batter in center of pan
 Oven](images/media/image17.jpeg)
 
 Figure 17: swirl batter
+
+{% include footer.md %}
