@@ -38,7 +38,7 @@ This recipe is savory and for meat lovers.
 
 1. Preheat oven to 350 degrees Fahrenheit
 
-2. Lightly grease baking pan (Figure 10)
+2. Lightly grease baking pan (Figure 1)
 
 3. Cook bacon
 
@@ -46,7 +46,7 @@ This recipe is savory and for meat lovers.
 
     b.  Cook over medium-high heat
 
-    c.  Toss frequently until brown and crisp (Figure 11)
+    c.  Toss frequently until brown and crisp (Figure 2)
 
     d.  Place bacon on plate lined with paper towels to absorb grease
 
@@ -56,7 +56,7 @@ This recipe is savory and for meat lovers.
 
     a.  Return skillet to heat
 
-    b.  Add spinach and sauté for a few seconds (Figure 12)
+    b.  Add spinach and sauté for a few seconds (Figure 3)
 
 5. Whisk eggs, milk, butter, salt, and pepper in a large mixing bowl
 
@@ -75,16 +75,16 @@ Source: <https://www.cookingclassy.com/frittata/>
 ![how to butter and flour a cake pan -
 YouTube](images/media/image10.jpeg)
 
-Figure 10: grease pan with butter
+Figure 1: grease pan with butter
 
 ![A plate of food Description automatically generated with low
 confidence](images/media/image11.jpeg)
 
-Figure 11: cook bacon until crispy
+Figure 2: cook bacon until crispy
 
 ![How to Cook Spinach (3 Ways!) - Jessica
 Gavin](images/media/image12.jpeg)
 
-Figure 12: sauté spinach
+Figure 3: sauté spinach
 
 {% include footer.md %}

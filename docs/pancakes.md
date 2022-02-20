@@ -29,11 +29,11 @@ ones!
 
 ## Steps
 
-1. Mash the banana in a medium mixing bowl (Figure 13)
+1. Mash the banana in a medium mixing bowl (Figure 1)
 
 2. Add milk, oil, sugar, and vanilla to the banana
 
-3. Whisk until combined (Figure 14)
+3. Whisk until combined (Figure 2)
 
 4. Add the flour, baking powder, and salt to wet ingredients
 
@@ -43,9 +43,9 @@ ones!
 
 7. Pour about 1/3 cup of batter onto the pan
 
-8. Cook until bubbles form, then flip (Figure 15, left)
+8. Cook until bubbles form, then flip (Figure 3, left)
 
-9. Cook for 1-2 minutes or until golden brown on each side (Figure15,
+9. Cook for 1-2 minutes or until golden brown on each side (Figure 3,
     right)
 
 10. Repeat with remaining batter
@@ -57,16 +57,16 @@ Source: <https://www.noracooks.com/vegan-banana-pancakes/>
 ![Mashed banana Images, Stock Photos &amp; Vectors \|
 Shutterstock](images/media/image13.jpeg)
 
-Figure 13: mash bananas in a bowl
+Figure 1: mash bananas in a bowl
 
 ![How to make pancakes - #16 - Whisking the ingredients --- Appetites® -
 YouTube](images/media/image14.jpeg)
 
-Figure 14: whisk pancake batter
+Figure 2: whisk pancake batter
 
 ![Creating Perfect Pancakes for Your Family
 Breakfast](images/media/image15.jpeg)
 
-Figure 15: bubbling pancake (left) and cooked pancake (right)
+Figure 3: bubbling pancake (left) and cooked pancake (right)
 
 {% include footer.md %}

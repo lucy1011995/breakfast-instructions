@@ -46,9 +46,9 @@ fun fillings.
 
 4. Grease pan with extra butter
 
-5. Add ¼ cup of batter to the center of the pan (Figure 16)
+5. Add ¼ cup of batter to the center of the pan (Figure 1)
 
-6. Swirl batter to cover bottom of pan (Figure 17)
+6. Swirl batter to cover bottom of pan (Figure 2)
 
 7. Cook until light brown, about 1-2 min
 
@@ -62,11 +62,11 @@ fillings!
 ![How to Make Basic Crepes Perfect Every Time - Scrambled
 Chefs](images/media/image16.jpeg)
 
-Figure 16: pour crepe batter in center of pan
+Figure 1: pour crepe batter in center of pan
 
 ![Basic Homemade Crepes (How to make crepes) --- The 350 Degree
 Oven](images/media/image17.jpeg)
 
-Figure 17: swirl batter
+Figure 2: swirl batter
 
 {% include footer.md %}
